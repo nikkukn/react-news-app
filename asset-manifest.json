@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/github.io/react-news-app/static/js/main.02b47b7d.chunk.js",
-    "main.js.map": "/github.io/react-news-app/static/js/main.02b47b7d.chunk.js.map",
-    "runtime-main.js": "/github.io/react-news-app/static/js/runtime-main.c9f5fa28.js",
-    "runtime-main.js.map": "/github.io/react-news-app/static/js/runtime-main.c9f5fa28.js.map",
-    "static/js/2.acbc081d.chunk.js": "/github.io/react-news-app/static/js/2.acbc081d.chunk.js",
-    "static/js/2.acbc081d.chunk.js.map": "/github.io/react-news-app/static/js/2.acbc081d.chunk.js.map",
-    "index.html": "/github.io/react-news-app/index.html",
-    "precache-manifest.62996af2e6590d195ed04c433a876b56.js": "/github.io/react-news-app/precache-manifest.62996af2e6590d195ed04c433a876b56.js",
-    "service-worker.js": "/github.io/react-news-app/service-worker.js",
-    "static/js/2.acbc081d.chunk.js.LICENSE.txt": "/github.io/react-news-app/static/js/2.acbc081d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/github.io/react-news-app/static/media/logo.5d5d9eef.svg"
+    "main.js": "/nikkukn/github.io/react-news-app/static/js/main.45a610a3.chunk.js",
+    "main.js.map": "/nikkukn/github.io/react-news-app/static/js/main.45a610a3.chunk.js.map",
+    "runtime-main.js": "/nikkukn/github.io/react-news-app/static/js/runtime-main.b2a1e9c9.js",
+    "runtime-main.js.map": "/nikkukn/github.io/react-news-app/static/js/runtime-main.b2a1e9c9.js.map",
+    "static/js/2.5a5f37ba.chunk.js": "/nikkukn/github.io/react-news-app/static/js/2.5a5f37ba.chunk.js",
+    "static/js/2.5a5f37ba.chunk.js.map": "/nikkukn/github.io/react-news-app/static/js/2.5a5f37ba.chunk.js.map",
+    "index.html": "/nikkukn/github.io/react-news-app/index.html",
+    "precache-manifest.0e6d764ef565351f933b72d6256aa7b5.js": "/nikkukn/github.io/react-news-app/precache-manifest.0e6d764ef565351f933b72d6256aa7b5.js",
+    "service-worker.js": "/nikkukn/github.io/react-news-app/service-worker.js",
+    "static/js/2.5a5f37ba.chunk.js.LICENSE.txt": "/nikkukn/github.io/react-news-app/static/js/2.5a5f37ba.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nikkukn/github.io/react-news-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9f5fa28.js",
-    "static/js/2.acbc081d.chunk.js",
-    "static/js/main.02b47b7d.chunk.js"
+    "static/js/runtime-main.b2a1e9c9.js",
+    "static/js/2.5a5f37ba.chunk.js",
+    "static/js/main.45a610a3.chunk.js"
   ]
 }
